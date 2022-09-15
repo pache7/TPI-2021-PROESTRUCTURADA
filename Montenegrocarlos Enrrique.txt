@@ -1,0 +1,17 @@
+codigo: 137 
+nombre: carlos Enrrique 
+apellido: Montenegro 
+Dni: 24616001 
+Direccion: Bustamante 
+telefono fijo: 3764562378 
+correo: carlosenrique@gmail.com 
+celular: 3764616000 
+cantidad de megas:50 
+costo de internet: 1500.00 
+descripcion tv: solo basico
+fecha de firma: 14/11/2021 
+fecha de nacimiento: 16/4/1983 
+descuento en el contrato: 0.00 
+costo total de contrato: 2000.00 
+fecha de inicio de servicio: 14/11/2021 
+fecha de fin del servicio: 13/12/2021 

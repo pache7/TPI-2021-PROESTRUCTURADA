@@ -1,0 +1,19 @@
+codigo: 139 
+nombre: Juan Jose 
+apellido: Battler 
+Dni: 30721702 
+Direccion: Urquiza 5621 
+telefono fijo: 3764721702 
+correo: juanjose702@gmail.com 
+celular: 3764621207 
+cantidad de megas:25 
+costo de internet: 800.00 
+descripcion tv: TV HD
+Pack HBO
+Pack Futbol
+fecha de firma: 14/11/2021 
+fecha de nacimiento: 30/11/1972 
+descuento en el contrato: 2310.00 
+costo total de contrato: 7700.00 
+fecha de inicio de servicio: 14/11/2021 
+fecha de fin del servicio: 13/5/2022 

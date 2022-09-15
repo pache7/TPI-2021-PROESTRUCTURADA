@@ -1,0 +1,20 @@
+codigo: 145 
+nombre: Silvia Lorena 
+apellido: Romero 
+Dni: 19632747 
+Direccion: Catamarca 1452 
+telefono fijo: 3764623747 
+correo: silvialorena@gmail.com 
+celular: 3764562374 
+cantidad de megas:1000 
+costo de internet: 2500.00 
+descripcion tv: Pack HBO
+Star+  
+Disney+ 
+Paramount+
+fecha de firma: 14/11/2021 
+fecha de nacimiento: 23/2/1974 
+descuento en el contrato: 3600.00 
+costo total de contrato: 12000.00 
+fecha de inicio de servicio: 14/11/2021 
+fecha de fin del servicio: 13/5/2022 

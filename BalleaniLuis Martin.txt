@@ -1,0 +1,17 @@
+codigo: 132 
+nombre: Luis Martin 
+apellido: Balleani 
+Dni: 25167008 
+Direccion: Jauretche 2425 
+telefono fijo: 3764464587 
+correo: luismartin@gmail.com 
+celular: 3764618745 
+cantidad de megas:300 
+costo de internet: 1700.00 
+descripcion tv: Pack Futbol
+fecha de firma: 14/11/2021 
+fecha de nacimiento: 25/8/1978 
+descuento en el contrato: 1075.00 
+costo total de contrato: 4300.00 
+fecha de inicio de servicio: 14/11/2021 
+fecha de fin del servicio: 13/5/2022 

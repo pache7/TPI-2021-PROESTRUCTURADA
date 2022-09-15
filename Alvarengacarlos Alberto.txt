@@ -1,0 +1,17 @@
+codigo: 133 
+nombre: carlos Alberto 
+apellido: Alvarenga 
+Dni: 18665557 
+Direccion: Mendoza 453 
+telefono fijo: 3764446857 
+correo: carlosalberto@gmail.com 
+celular: 3764667505 
+cantidad de megas:1000 
+costo de internet: 2500.00 
+descripcion tv: solo basico
+fecha de firma: 14/11/2021 
+fecha de nacimiento: 18/6/1970 
+descuento en el contrato: 600.00 
+costo total de contrato: 3000.00 
+fecha de inicio de servicio: 14/11/2021 
+fecha de fin del servicio: 13/5/2022 

@@ -1,0 +1,17 @@
+codigo: 136 
+nombre: Marcos Joaquin 
+apellido: Acosta 
+Dni: 29676325 
+Direccion: Lopes Torres 2976 
+telefono fijo: 3764576123 
+correo: marcosjoaquin@gmail.com 
+celular: 3764676132 
+cantidad de megas:300 
+costo de internet: 1700.00 
+descripcion tv: TV HD
+fecha de firma: 14/11/2021 
+fecha de nacimiento: 29/12/1967 
+descuento en el contrato: 800.00 
+costo total de contrato: 4000.00 
+fecha de inicio de servicio: 14/11/2021 
+fecha de fin del servicio: 13/5/2022 

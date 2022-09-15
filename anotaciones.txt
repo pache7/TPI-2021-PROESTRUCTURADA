@@ -1,0 +1,8 @@
+fprintf sirve para imprimir el archivo en un txt(escribe),pero no muestra por pantalla.
+fscanf sirve para mostrar el archivo por pantalla;
+podria pasar el archivo con los datos del cliente pero seria complicado.
+me convendria  manejar nomas adentro de la otra funcion.
+la fecha de nacimiento la podria manejar yo nomas.
+una vez que registro el cliente debo espeficar todos sus datos.
+-no me funciona el archivo 
+tendria que cambiar algo del codigo.

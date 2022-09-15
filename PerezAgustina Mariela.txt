@@ -1,0 +1,36 @@
+codigo: 146 
+nombre: Agustina Mariela 
+apellido: Perez 
+Dni: 20171625 
+Direccion: Jujuy 5263 
+telefono fijo: 3764447900 
+correo: agustinamariela@gmail.com 
+celular: 3764799002 
+cantidad de megas:50 
+costo de internet: 1500.00 
+descripcion tv: Pack HBO
+Star+  
+fecha de firma: 14/11/2021 
+fecha de nacimiento: 20/2/1999 
+descuento en el contrato: 2010.00 
+costo total de contrato: 6700.00 
+fecha de inicio de servicio: 14/11/2021 
+fecha de fin del servicio: 13/5/2022 
+codigo: 147 
+nombre: Agustina Mariela 
+apellido: Perez 
+Dni: 20171625 
+Direccion: Jujuy 5263 
+telefono fijo: 3764447900 
+correo: agustinamariela@gmail.com 
+celular: 3764799002 
+cantidad de megas:1000 
+costo de internet: 2500.00 
+descripcion tv: Pack Futbol
+Paramount+
+fecha de firma: 8/11/2021 
+fecha de nacimiento: 20/2/1999 
+descuento en el contrato: 2130.00 
+costo total de contrato: 7100.00 
+fecha de inicio de servicio: 8/11/2021 
+fecha de fin del servicio: 7/5/2022 

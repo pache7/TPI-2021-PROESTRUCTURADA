@@ -1,0 +1,35 @@
+codigo: 134 
+nombre: Maria Mercedes 
+apellido: Paladini 
+Dni: 28618979 
+Direccion: Roque Perez 506 
+telefono fijo: 3764498816 
+correo: mariamercedes@gmail.com 
+celular: 3764618992 
+cantidad de megas:25 
+costo de internet: 800.00 
+descripcion tv: Star+  
+Disney+ 
+fecha de firma: 14/11/2021 
+fecha de nacimiento: 28/9/1981 
+descuento en el contrato: 1450.00 
+costo total de contrato: 5800.00 
+fecha de inicio de servicio: 14/11/2021 
+fecha de fin del servicio: 13/5/2022 
+codigo: 138 
+nombre: Maria Mercedes 
+apellido: Paladini 
+Dni: 28618979 
+Direccion: Roque Perez 506 
+telefono fijo: 3764498816 
+correo: mariamercedes@gmail.com 
+celular: 3764618992 
+cantidad de megas:100 
+costo de internet: 1400.00 
+descripcion tv: TV HD
+fecha de firma: 14/11/2021 
+fecha de nacimiento: 28/9/1981 
+descuento en el contrato: 740.00 
+costo total de contrato: 3700.00 
+fecha de inicio de servicio: 14/11/2021 
+fecha de fin del servicio: 13/5/2022 

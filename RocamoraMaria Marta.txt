@@ -1,0 +1,19 @@
+codigo: 142 
+nombre: Maria Marta 
+apellido: Rocamora 
+Dni: 28871850 
+Direccion: Catamarca 2569 
+telefono fijo: 3764451850 
+correo: mariamarta367@gmail.com 
+celular: 3764615018 
+cantidad de megas:0 
+costo de internet: 0.00 
+descripcion tv: Pack Futbol
+Star+  
+Disney+ 
+fecha de firma: 13/11/2021 
+fecha de nacimiento: 18/10/1971 
+descuento en el contrato: 2130.00 
+costo total de contrato: 7100.00 
+fecha de inicio de servicio: 13/11/2021 
+fecha de fin del servicio: 12/5/2022 

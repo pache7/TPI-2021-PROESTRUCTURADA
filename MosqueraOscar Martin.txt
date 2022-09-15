@@ -1,0 +1,18 @@
+codigo: 135 
+nombre: Oscar Martin 
+apellido: Mosquera 
+Dni: 17128858 
+Direccion: San Luis 2025 
+telefono fijo: 3764475612 
+correo: oscarmartin@gmail.com 
+celular: 3764617588 
+cantidad de megas:100 
+costo de internet: 1400.00 
+descripcion tv: Pack HBO
+Pack Futbol
+fecha de firma: 14/11/2021 
+fecha de nacimiento: 17/8/1971 
+descuento en el contrato: 1950.00 
+costo total de contrato: 6500.00 
+fecha de inicio de servicio: 14/11/2021 
+fecha de fin del servicio: 13/5/2022 

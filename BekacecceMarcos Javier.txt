@@ -1,0 +1,18 @@
+codigo: 143 
+nombre: Marcos Javier 
+apellido: Bekacecce 
+Dni: 36738192 
+Direccion: Andresito 4587 
+telefono fijo: 3764458192 
+correo: marcosjavier@gmail.com 
+celular: 3764659281 
+cantidad de megas:1000 
+costo de internet: 2500.00 
+descripcion tv: TV HD
+Pack Futbol
+fecha de firma: 13/11/2021 
+fecha de nacimiento: 18/2/1973 
+descuento en el contrato: 2070.00 
+costo total de contrato: 6900.00 
+fecha de inicio de servicio: 13/11/2021 
+fecha de fin del servicio: 12/5/2022 

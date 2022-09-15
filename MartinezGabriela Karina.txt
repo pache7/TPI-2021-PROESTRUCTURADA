@@ -1,0 +1,17 @@
+codigo: 141 
+nombre: Gabriela Karina 
+apellido: Martinez 
+Dni: 18561159 
+Direccion: Jujuy 2536 
+telefono fijo: 3764456569 
+correo: gabrielacarina@gmail.com 
+celular: 3764611985 
+cantidad de megas:1000 
+costo de internet: 2500.00 
+descripcion tv: Pack Futbol
+fecha de firma: 13/11/2021 
+fecha de nacimiento: 16/5/1959 
+descuento en el contrato: 1275.00 
+costo total de contrato: 5100.00 
+fecha de inicio de servicio: 13/11/2021 
+fecha de fin del servicio: 12/5/2022 

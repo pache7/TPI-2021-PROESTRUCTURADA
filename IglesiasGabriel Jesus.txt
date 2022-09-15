@@ -1,0 +1,18 @@
+codigo: 140 
+nombre: Gabriel Jesus 
+apellido: Iglesias 
+Dni: 19226667 
+Direccion: Artigas 871 
+telefono fijo: 3764445646 
+correo: gabrieljesus@gmail.com 
+celular: 3764221967 
+cantidad de megas:50 
+costo de internet: 1500.00 
+descripcion tv: TV HD
+Pack Futbol
+fecha de firma: 13/11/2021 
+fecha de nacimiento: 22/6/1967 
+descuento en el contrato: 1475.00 
+costo total de contrato: 5900.00 
+fecha de inicio de servicio: 13/11/2021 
+fecha de fin del servicio: 12/5/2022 

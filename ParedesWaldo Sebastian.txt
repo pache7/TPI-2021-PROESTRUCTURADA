@@ -1,0 +1,18 @@
+codigo: 144 
+nombre: Waldo Sebastian 
+apellido: Paredes 
+Dni: 20258636 
+Direccion: Alvear 2458 
+telefono fijo: 3764258636 
+correo: waldosebastian@gmail.com 
+celular: 3764202586 
+cantidad de megas:50 
+costo de internet: 1500.00 
+descripcion tv: Pack Futbol
+Star+  
+fecha de firma: 13/11/2021 
+fecha de nacimiento: 25/2/1986 
+descuento en el contrato: 1890.00 
+costo total de contrato: 6300.00 
+fecha de inicio de servicio: 13/11/2021 
+fecha de fin del servicio: 12/5/2022 

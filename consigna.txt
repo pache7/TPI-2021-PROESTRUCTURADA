@@ -1,0 +1,74 @@
+Escenario
+Una empresa prestadora de servicios de Internet y TV, solicita un sistema para gestionar a
+sus clientes, con sus respectivos servicios y la facturación correspondiente.
+La empresa es de nivel nacional, da servicios a todo el país. Tiene dos servicios principales,
+TV e Internet. Si bien los servicios principales son 2, es importante destacar que cada
+servicio tiene distintos niveles de subservicios que se pueden contratar. Por ejemplo:
+● El servicio de TV (por cable) si o si se contrata como servicio básico y se le puede
+agregar los siguientes servicios y contenidos streaming:
+○ App.
+○ TV HD.
+○ Pack HBO.
+○ Pack Fútbol.
+○ Star+.
+○ Disney+.
+○ Paramount+.
+*Importante: el servicio básico tiene un costo, y cada servicio extra también tiene su costo.
+● El servicio de Internet funciona de otra manera, no existe un servicio básico, el
+servicio se vende con la posibilidad de adquirir distintas velocidades.
+○ 25 MB.
+○ 50 MB.
+○ 100 MB.
+○ 300 MB.
+○ 1000 MB.
+*Importante: cada uno tiene su precio.
+A su vez existe la posibilidad de adquirir el/los servicio/s con una promoción; la cual consiste
+en un porcentaje de descuento sobre el total del o los servicios. A tener en cuenta, los
+descuentos de las promociones se calculan según el monto total del o los servicios
+adquiridos, para los primeros 6 meses:
+● Entre $3000 y $4000, obtiene un 20% de descuento.
+● Entre $4001 y $6000, 25% de descuento.
+● Más de $6000, obtiene un 30% de descuento.
+La empresa para poder celebrar un contrato necesita los siguientes datos del Cliente: dni,
+nombre y apellido, fecha de nacimiento, dirección completa, dirección de correo electrónico,
+un número de teléfono fijo y un celular.
+Por su parte, el contrato debe especificar, el cliente, el o los servicio/s contratado/s, la fecha
+de firma, de inicio del servicio y de fin, el costo del o los servicios y el descuento (si es que
+accedió a uno).
+Programación Estructurada
+Año 2021
+A partir de la “firma” del contrato, se comienza a facturar mes a mes el servicio contratado a
+cada cliente, la facturación se hace una vez al mes, indicando fecha de facturación, período
+que se factura (por ejemplo del 05 de octubre al 04 de noviembre), vencimiento e importe
+total de la factura.
+A su vez la facturación cuenta con un detalle de los servicios facturados, en cada renglón
+aparece un número de renglón, un descriptivo del servicio y el total parcial.
+Consignas
+- Altas-Modificaciones-Bajas
+o Archivos Binarios:
+▪ Clientes.
+▪ Facturas.
+▪ Servicios.
+▪ Contratos.
+o Archivos de Textos:
+▪ Contratos (crear un archivo de texto para uno).
+- Listados-Consultas
+o Listar los clientes activos/no activos.
+o Listar todos los servicios contratados.
+o Mostrar las contrataciones de servicios realizadas entre 2 fechas (de alta)
+que se ingresan por teclado.
+o Listar los servicios vigentes según el tipo al que correspondan, permitiendo al
+usuario elegir (TV/Internet/servicios adicionales).
+o Indicar el servicio que posee mayor o menor contratación.
+o Elegir una fecha en particular (Mes/Año), si es Alta o Baja y mostrar las
+operaciones realizadas según la opción seleccionada.
+Entregables del trabajo
+● Ejecutable con todas las funcionalidades pedidas.
+● Código Fuente en formato digital.
+● Datos almacenados en los archivos con los que se realizaron las pruebas.
+● Adicionalmente, el trabajo deberá ser presentado en una carpeta que contenga:
+○ Carátula con datos de los integrantes del grupo, cátedra, docentes y año.
+Consideraciones
+● El trabajo será realizado en grupos de 4 (cuatro) integrantes (excepcionalmente 3
+-tres-).
+● La fecha de entrega y defensa del trabajo (en horario de clases): 09/11/2021

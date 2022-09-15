@@ -1,0 +1,17 @@
+codigo: 149 
+nombre: Javier Eduardo 
+apellido: Schneider 
+Dni: 36007987 
+Direccion: Ayacucho 1566 
+telefono fijo: 3764460087 
+correo: javiereduardo@gmail.com 
+celular: 3764007929 
+cantidad de megas:50 
+costo de internet: 1500.00 
+descripcion tv: Pack Futbol
+fecha de firma: 8/11/2021 
+fecha de nacimiento: 7/12/1976 
+descuento en el contrato: 1025.00 
+costo total de contrato: 4100.00 
+fecha de inicio de servicio: 8/11/2021 
+fecha de fin del servicio: 7/5/2022 
